@@ -10,7 +10,7 @@ PowerShell + WPF で動作する **ハッシュチェック用フロントエン
 本アプリは **Microsoft Copilot によって作成された Copilot 製アプリ**です。  
 Windows 11 + PowerShell 7.5.4 で動作確認済みですが、PowerShell 5.1 でも動作します。
 
-![HashChecker](https://github.com/user-attachments/assets/ "アプリウィンドウ")
+![HashChecker](https://github.com/user-attachments/assets/b2042ef4-6312-46d5-b9c1-0dd5e5312a79 "アプリウィンドウ")
 
 ---
 
